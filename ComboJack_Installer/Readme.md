@@ -4,6 +4,6 @@
 
 2. Done.
 
-[(https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/2.png)]
+![combojack](https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/2.png)
 
-![macintosh](https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/3.png)
+![combojack](https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/3.png)

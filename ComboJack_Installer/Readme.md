@@ -4,6 +4,6 @@
 
 2. Done.
 
-![macintosh](./screenshot/2.png)
+[(https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/2.png)]
 
-![macintosh](./screenshot/3.png)
+![macintosh](https://github.com/tuankhang99/VOSTRO-3568-EFI/blob/main/screenshot/3.png)

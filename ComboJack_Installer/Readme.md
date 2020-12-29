@@ -4,6 +4,6 @@
 
 2. Done.
 
-![combojack](./screenshot/2.png)
+![macintosh](./screenshot/2.png)
 
-![combojack](./screenshot/3.png)
+![macintosh](./screenshot/3.png)

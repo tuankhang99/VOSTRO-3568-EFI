@@ -24,3 +24,9 @@
 | Laptop Trackpad            | Working                                                     |
 | Sleep                      | Working                                                     |
 | Fingerprint Sensor         | Not working                                                 |
+
+
+
+### CPU Power Management
+
+This Patch non-add CPU frequency-data [CPU](https://github.com/tuankhang99/VOSTRO-3568-EFI/tree/main/DSDT%20no%20freq%20CPU)

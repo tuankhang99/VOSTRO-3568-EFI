@@ -1,3 +1,4 @@
+## DELL VOSTRO 3568 i7
 **OpenCore Version**: [0.6.4](https://github.com/acidanthera/OpenCorePkg/releases)
 
 **macOS Version**: macOS Catalina 10.15.7 / Big Sur 11.1
